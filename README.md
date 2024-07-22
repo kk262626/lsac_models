@@ -1,5 +1,5 @@
 # Age-stratified Predictions of Suicide Attempts Using Machine Learning in Middle and Late Adolescence
-This repository contains the machine learning models for predicting suicide attempts in middle and late adolescence. These models were saved using joblib version 1.1.0.
+This repository contains the machine learning models for predicting suicide attempts in middle and late adolescence (paper under review). These models were saved using joblib version 1.1.0.
 
 ## File names
 LR56s.sav: Logistic regression model for mid-adolescence (Waves 5-6)  
